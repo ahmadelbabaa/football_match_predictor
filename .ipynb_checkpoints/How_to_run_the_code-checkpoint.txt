@@ -1,5 +1,3 @@
-# football_match_predictor
-
 In order to facilitate teh replicability of the process, here there is a description on how to proceed.
 
 Because the folder with the tables is complete, in order to replicate the process I suggest to make a copy of the folder with all the notebooks and clear the tables folder in one of them. In this way it is possible to build the database from scratch. (important leave the data folder full, as contains the data to build the database)
